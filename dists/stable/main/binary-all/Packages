@@ -1,0 +1,10 @@
+Package: pokokto
+Version: 1.0
+Architecture: all
+Maintainer: Pokokto Team <pokokto@pokokto.rf.gd>
+Filename: pool/main/pokokto/pokokto_1.0_all.deb
+Size: 1004
+MD5sum: 031fe1bcba34915bb680f55da0139029
+SHA1: d7b561567e8ad8fb56de83bfe3ad4e75ccc5e798
+SHA256: 1f1c1a1ac8302857d2658d9ce3190d2f5e5fa7a88d1a31c28cdec1f1512627e2
+Description: CLI Pokokto untuk install dari URL
