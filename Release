@@ -1,0 +1,7 @@
+Origin: Pokokto
+Label: Pokokto Repo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Pokokto Termux APT repository
