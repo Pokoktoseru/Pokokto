@@ -1,8 +1,8 @@
 Origin: Pokokto
-Label: Pokokto
+Label: Pokokto Repo
 Suite: stable
-Version: 1.0
 Codename: stable
+Date: Mon, 16 Jun 2025 05:36:42 UTC
 Architectures: all
 Components: main
-Description: Pokokto APT Repo
+Description: Pokokto Termux APT repository
