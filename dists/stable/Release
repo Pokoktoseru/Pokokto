@@ -1,0 +1,8 @@
+Origin: Pokokto
+Label: Pokokto
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: all
+Components: main
+Description: Pokokto APT Repo
